@@ -15,5 +15,6 @@ Git - Versionador de código
 - git -b branch_teste - Criar uma brach
 - git checkout branch - Mudar de branch
 - git status - Ver o que foi alterado
+- git merge branch - trazer as informações da branch para a atual
 
 teste - ERP-102
