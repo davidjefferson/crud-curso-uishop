@@ -18,3 +18,5 @@ Git - Versionador de código
 - git merge branch - trazer as informações da branch para a atual
 
 teste - ERP-102
+
+David
